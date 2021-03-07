@@ -12,7 +12,17 @@
   font-family: 'Montserrat';
 }
 
+.round-border-message {
+  border-radius: 1.25rem;
+  border-bottom-left-radius: 0;
+}
+
+.round-border-img {
+  border-radius: 50%;
+  border: 3px solid #212529;
+}
+
 .user {
-  height: 50px;
+  height: 60px;
 }
 
